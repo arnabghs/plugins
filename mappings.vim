@@ -24,3 +24,5 @@ map <C-y> "*y
 imap cl<tab> console.log()<left>
 imap pa<tab> process.argv[]<left>
 
+nnoremap <leader>. :nohl<cr>
+nnoremap <leader>so :so $MYVIMRC<cr>
