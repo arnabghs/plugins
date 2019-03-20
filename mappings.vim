@@ -10,7 +10,6 @@ inoremap <C-S-Down> <Esc>yypi
 inoremap <C-S-Up> <Esc>yyPi
 
 "to move between two buffers
-inoremap <leader><space>  <Esc>:bnext<cr>
 nnoremap <leader><space>  <Esc>:bnext<cr>
 
 "maximize and resize buffer windows
